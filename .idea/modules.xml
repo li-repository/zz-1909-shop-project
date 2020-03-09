@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-project/shop-project.iml" filepath="$PROJECT_DIR$/shop-project/shop-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-project/shop-project-common/shop-project-common.iml" filepath="$PROJECT_DIR$/shop-project/shop-project-common/shop-project-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/shop-project-eureka-server.iml" filepath="$PROJECT_DIR$/shop-project/shop-project-eureka-server/shop-project-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-service.iml" filepath="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-project/shop-project-web/shop-project-web.iml" filepath="$PROJECT_DIR$/shop-project/shop-project-web/shop-project-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zz-1909-shop-project.iml" filepath="$PROJECT_DIR$/.idea/zz-1909-shop-project.iml" />
+    </modules>
+  </component>
+</project>
