@@ -6,16 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="shop-project-eureka-server" />
-        <module name="shop-project-common" />
-        <module name="shop-project-service" />
-        <module name="shop-project-web" />
+        <module name="ljs-shop-common" />
+        <module name="ljs-eureka-server" />
+        <module name="ljs-shop-service" />
+        <module name="ljs-shop-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ljs-eureka-server" target="1.5" />
+      <module name="ljs-shop-common" target="1.5" />
+      <module name="ljs-shop-service" target="1.5" />
+      <module name="ljs-shop-web" target="1.5" />
       <module name="shop-project" target="1.5" />
       <module name="shop-project-common" target="1.5" />
       <module name="shop-project-eureka-server" target="1.5" />
+      <module name="shop-project-register-service" target="1.5" />
       <module name="shop-project-service" target="1.5" />
       <module name="shop-project-web" target="1.5" />
     </bytecodeTargetLevel>
