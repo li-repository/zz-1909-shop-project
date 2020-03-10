@@ -1,4 +1,4 @@
-package src.main.java.com.qf.controller;
+package com.qf.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

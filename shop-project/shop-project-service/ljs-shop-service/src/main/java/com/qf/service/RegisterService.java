@@ -1,4 +1,4 @@
-package src.main.java.com.qf.service;
+package com.qf.service;
 
 /**
  * @author li

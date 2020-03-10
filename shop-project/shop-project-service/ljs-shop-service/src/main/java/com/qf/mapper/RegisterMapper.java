@@ -1,4 +1,4 @@
-package src.main.java.com.qf.mapper;
+package com.qf.mapper;
 
 import org.springframework.stereotype.Repository;
 
