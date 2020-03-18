@@ -13,7 +13,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>ljs-shop-common</module>
-        <module>ljs-shop-common</module>
     </modules>
 
 

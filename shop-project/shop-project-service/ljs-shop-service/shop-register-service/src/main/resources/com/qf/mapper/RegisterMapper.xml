@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.qf.mapper.RegisterMapper">
+
+    <insert id="phoneRegister">
+        insert into t_user(uname,password,phone,flag,create_time)
+        values(#{uname},#{password},#{phone},#{flag},#{createTime})
+    </insert>
+
+    <select id="checkPhone" resultType="Integer">
+        select count(1) from t_user where phone = #{phone}
+    </select>
+
+    <insert id="emailRegister">
+        insert into t_user(uname,password,email,flag,create_time)
+        values(#{uname},#{password},#{email},#{flag},#{createTime})
+    </insert>
+
+    <select id="checkEmail" resultType="Integer">
+        select count(1) from t_user where email = #{email}
+    </select>
+    
+
+
+</mapper>
+

@@ -1,0 +1,49 @@
+server:
+  port: 7763
+
+
+spring:
+  application:
+    name: shop-cart-service
+  #mysql数据源
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/qf-v6?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+  #rabbitMQ
+  rabbitmq:
+    host: 106.13.146.28
+    port: 5672
+    username: rabbit
+    password: 123456
+    virtual-host: shop
+  #Redis
+  redis:
+    host: 106.13.146.28
+    port: 6379
+    password: 123456
+    jedis:
+      pool:
+        max-idle: 20
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    auto-mapping-behavior: full  #开启全局映射
+    map-underscore-to-camel-case: true  #驼峰映射
+  type-aliases-package: com.qf.entity  #别名
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+
+
+
+
+

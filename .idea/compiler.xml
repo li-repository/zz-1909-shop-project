@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="shop-cart-service" />
+        <module name="shop-register-service" />
         <module name="ljs-shop-common" />
+        <module name="shop-sso-web" />
+        <module name="shop-sso-service" />
+        <module name="shop-cart-web" />
         <module name="ljs-eureka-server" />
-        <module name="ljs-shop-service" />
-        <module name="ljs-shop-web" />
+        <module name="shop-register-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,12 +21,18 @@
       <module name="ljs-shop-common" target="1.5" />
       <module name="ljs-shop-service" target="1.5" />
       <module name="ljs-shop-web" target="1.5" />
+      <module name="shop-cart-service" target="1.5" />
+      <module name="shop-cart-web" target="1.5" />
       <module name="shop-project" target="1.5" />
       <module name="shop-project-common" target="1.5" />
       <module name="shop-project-eureka-server" target="1.5" />
       <module name="shop-project-register-service" target="1.5" />
       <module name="shop-project-service" target="1.5" />
       <module name="shop-project-web" target="1.5" />
+      <module name="shop-register-service" target="1.5" />
+      <module name="shop-register-web" target="1.5" />
+      <module name="shop-sso-service" target="1.5" />
+      <module name="shop-sso-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

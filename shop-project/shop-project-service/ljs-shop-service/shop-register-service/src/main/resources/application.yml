@@ -1,0 +1,67 @@
+server:
+  port: 7761
+
+
+spring:
+  application:
+    name: shop-register-service
+  #mysql数据源
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/qf-v6?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+  #rabbitMQ
+  rabbitmq:
+    host: 106.13.146.28
+    port: 5672
+    username: rabbit
+    password: 123456
+    virtual-host: shop
+  #Redis
+  redis:
+    host: 106.13.146.28
+    port: 6379
+    password: 123456
+    jedis:
+      pool:
+        max-idle: 20
+  #邮件发送
+  mail:
+    host: smtp.qq.com
+    username: 2939741434@qq.com
+    password: ulvptwzjlaxudccg
+    default-encoding: utf-8
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+
+#邮箱注册的激活链接
+activeServerUrl: http://localhost:6761/register/email/active/
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    auto-mapping-behavior: full  #开启全局映射
+    map-underscore-to-camel-case: true  #驼峰映射
+  type-aliases-package: com.qf.entity  #别名
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+
+#配置短信发送所需的数据
+sms:
+  account: JSM42639
+  password: l43d7myq
+  veryCode: irnsloy2kjhd
+  http_url: http://112.74.76.186:8030
+  tplId: JSM42639-0001
+
+
+

@@ -2,13 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="100d42c0-cb4c-4c65-892d-92296f40243f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__axis_axis_wsdl4j_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_discovery_commons_discovery_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_axis_axis_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_axis_axis_ant_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_axis_axis_jaxrpc_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_axis_axis_saaj_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_http_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_upload_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/ConstantsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/ResultBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/TProductCartDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/shop-cart-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/CartServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/controllerr/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/mapper/CartMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/resources/com/qf/mapper/CartMapper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/shop-register-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/service/impl/RegisterServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/utils/SmsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/resources/com/qf/mapper/RegisterMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/resources/templates/emailTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/test/java/com/qf/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/shop-sso-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/SsoServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/controller/SsoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/mapper/SsoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/service/SsoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/service/impl/SsoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/resources/com/qf/mapper/SsoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/test/java/com/qf/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/shop-cart-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/CartWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/service/SsoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/shop-register-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/src/main/java/com/qf/RegisterWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/src/main/java/com/qf/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/src/main/java/com/qf/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/target/classes/META-INF/ljs-register-web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/shop-sso-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/SsoWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/controller/SsoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/service/SsoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_product.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_product_desc.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TProductDesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_product_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TProductType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_user.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/ljs-shop-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/ljs-shop-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/RegisterServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/RegisterServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/controller/RegisterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/mapper/RegisterMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/mapper/RegisterMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/service/RegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/service/RegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/RegisterServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/RegisterServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/mapper/RegisterMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/mapper/RegisterMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/service/RegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/service/RegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/target/classes/META-INF/ljs-shop-service.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/shop-project/target/" />
     <ignored path="$PROJECT_DIR$/shop-project/shop-project-common/target/" />
@@ -20,6 +143,14 @@
     <ignored path="$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/target/" />
     <ignored path="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/target/" />
     <ignored path="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/ljs-register-web/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-ssp-web/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +189,7 @@
         <item name="MySQL5.1.47 - qf-v6@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="qf-v6: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="t_product_type: table" type="285a2a93:MysqlImplModel$Table" />
+        <item name="t_user: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -66,54 +197,30 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zz-1909-shop-project" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/src/main/java/com/qf/ShopProjectEurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/mapper/RegisterMapper.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/RegisterServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>format</find>
+      <find>local</find>
+      <find>@</find>
+      <find>userInfoUuid</find>
+      <find>(A</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,30 +228,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/ShopProjectCommon.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/ShopProjectCommonApplication.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/service/RegisterService.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/mapper/RegisterMapper.java" />
-        <option value="$PROJECT_DIR$/shop-project/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_User.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_Product.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_product_desc.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_product_type.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-eureka-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-eureka-server/src/main/java/com/qf/ShopProjectEurekaServerApplication.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/RegisterServiceApplication.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/controller/RegisterController.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/mapper/RegisterMapper.java" />
-        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/RegisterParameter.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/RegisterParam.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/StringUtil.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/ljs-register-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/ljs-register-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/service/RegisterService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/test/java/com/qf/MyTest.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/ljs-register-web/src/main/java/com/qf/service/RegisterService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/resources/templates/emailTemplate.html" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TUser.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/ljs-register-web/src/main/java/com/qf/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/mapper/RegisterMapper.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/resources/com/qf/mapper/RegisterMapper.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/service/impl/RegisterServiceImpl.java" />
         <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/SsoServiceApplication.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/test/java/com/qf/MyTest.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/resources/com/qf/mapper/SsoMapper.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/service/SsoService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/mapper/SsoMapper.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/SsoWebApplication.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/service/SsoService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/CartServiceApplication.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/CartWebApplication.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/service/Sso_Service.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/CartItem.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/TProductDTO.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/ConstantsUtil.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/service/CartService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/service/impl/SsoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/controller/SsoController.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/controller/SsoController.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/controllerr/CartController.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/service/CartService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/service/CartService.java" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/resources/com/qf/mapper/CartMapper" />
+        <option value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/mapper/CartMapper.java" />
       </list>
     </option>
   </component>
@@ -168,7 +302,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-6" />
     <option name="width" value="1935" />
     <option name="height" value="1032" />
@@ -182,8 +316,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,6 +334,95 @@
               <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-common" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,6 +438,15 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,6 +455,7 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -232,6 +465,7 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -242,6 +476,7 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -253,6 +488,7 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -265,6 +501,21 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="controllerr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -278,6 +529,331 @@
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
               <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-cart-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -287,6 +863,102 @@
               <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project" type="462c0819:PsiDirectoryNode" />
               <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zz-1909-shop-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz-1909-shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-project-web" type="462c0819:PsiDirectoryNode" />
+              <item name="ljs-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-sso-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,6 +968,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -304,7 +977,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -314,14 +987,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-service\ljs-shop-service\src\main\java" />
-      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-eureka-server\ljs-eureka-server\src\main\java" />
-      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-common\ljs-shop-common\src\main\java\com\qf" />
-      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-common\ljs-shop-common" />
-      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-common\ljs-shop-common\src" />
+      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-web\ljs-shop-web\shop-cart-web\src\main\resources" />
+      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-service\ljs-shop-service\shop-cart-service\src\main\resources" />
+      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-web\ljs-shop-web\shop-sso-web\src\main\resources" />
+      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-service\ljs-shop-service\shop-sso-service\src\main\resources" />
+      <recent name="E:\GitHub\zz-1909-shop-project\shop-project\shop-project-service\ljs-shop-service\shop-register-service\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -332,43 +1010,47 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.22642967" />
   </component>
-  <component name="RunManager" selected="Spring Boot.RegisterServiceApplication (2)">
-    <configuration name="RegisterServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="ljs-shop-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.main.java.com.qf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="src.main.java.com.qf.RegisterServiceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegisterServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="ljs-shop-service" />
+  <component name="RunManager" selected="Spring Boot.CartWebApplication">
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-sso-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.RegisterServiceApplication" />
+      <option name="PACKAGE_NAME" value="com.qf" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shop-project-register-service" />
+    <configuration name="CartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-cart-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.RegisterServiceApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.CartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-cart-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.CartWebApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -380,32 +1062,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopProjectEurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopProjectEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ljs-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.ShopProjectEurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-sso-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.ShopProjectEurekaServerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.SsoServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopProjectEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="shop-project-eureka-server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.ShopProjectEurekaServerApplication" />
+    <configuration name="SsoWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-sso-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.SsoWebApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.RegisterServiceApplication (2)" />
-        <item itemvalue="Spring Boot.RegisterServiceApplication (1)" />
-        <item itemvalue="Spring Boot.ShopProjectEurekaServerApplication (1)" />
-        <item itemvalue="Spring Boot.RegisterServiceApplication" />
+        <item itemvalue="Spring Boot.CartServiceApplication" />
+        <item itemvalue="Spring Boot.CartWebApplication" />
+        <item itemvalue="Spring Boot.SsoWebApplication" />
+        <item itemvalue="Spring Boot.SsoServiceApplication" />
+        <item itemvalue="JUnit.MyTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -423,18 +1120,49 @@
       <workItem from="1583760818477" duration="879000" />
       <workItem from="1583762056071" duration="5169000" />
       <workItem from="1583806534758" duration="9439000" />
-      <workItem from="1583822617884" duration="911000" />
+      <workItem from="1583822617884" duration="24661000" />
+      <workItem from="1583889092430" duration="832000" />
+      <workItem from="1583899263911" duration="10553000" />
+      <workItem from="1583913080878" duration="10140000" />
+      <workItem from="1583930381400" duration="11478000" />
+      <workItem from="1583975674630" duration="1376000" />
+      <workItem from="1583985848232" duration="13418000" />
+      <workItem from="1584019537038" duration="3651000" />
+      <workItem from="1584175101286" duration="21324000" />
+      <workItem from="1584233587703" duration="2878000" />
+      <workItem from="1584324971816" duration="1385000" />
+      <workItem from="1584344819885" duration="371000" />
+      <workItem from="1584416817156" duration="610000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_sendEmail - 2020.03.11 at 20h 33m 05s.xml">
+      <configuration name="MyTest.sendEmail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_redisTest - 2020.03.11 at 22h 23m 38s.xml">
+      <configuration name="MyTest.redisTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test - 2020.03.12 at 21h 34m 41s.xml">
+      <configuration name="MyTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20726000" />
+    <option name="totallyTimeSpent" value="122492000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,26 +1171,27 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.05400982" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24222586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53846157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3535188" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.049099836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.21331316" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.30484116" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.22012103" />
@@ -473,165 +1202,413 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/ShopProjectCommonApplication.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/mapper.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/service/RegisterService.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/mapper/RegisterMapper.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5286c27b-005c-4fa9-acc3-840fc4559b6f/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0d81b52b-f70a-4d95-80a3-c9163c9b7c93/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e2289384-4b3d-4391-9ab7-5d62fe80428c/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6d81d704-0530-45ab-b202-d226bc34bd22/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/431be323-c9aa-468a-b78a-101b0ddafbd1/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_user.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_product_type.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_product_desc.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/src/main/java/com/qf/entity/T_product.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="101" column="25" selection-start-line="91" selection-start-column="12" selection-end-line="101" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="81" column="21" selection-start-line="15" selection-start-column="8" selection-end-line="81" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/target/classes/application.yml" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/controller/RegisterController.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/src/main/java/com/qf/ShopProjectEurekaServerApplication.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/shop-project-register-service/src/main/java/com/qf/RegisterServiceApplication.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/src/main/java/com/qf/entity/T_user.java" />
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/mapper/RegisterMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_product_type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_product_desc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/T_product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/src/main/java/com/qf/ShopProjectEurekaServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf.java" />
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/RegisterServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/java/com/qf/RegisterServiceApplication.java">
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/config/RabbitMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/StringUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="270">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/mapper/RegisterMapper.java">
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-register-service/src/main/java/com/qf/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/test/java/com/qf/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-eureka-server/ljs-eureka-server/src/main/java/com/qf/ShopProjectEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/shop-sso-service.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/mapper/SsoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/shop-register-web.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/src/main/java/com/qf/RegisterServiceApplication.java">
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-register-web/src/main/java/com/qf/service/RegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="83" column="19" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="83" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="54" column="19" selection-start-line="14" selection-start-column="4" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/apache_maven_3.5.2/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.0.RELEASE/spring-cloud-openfeign-core-2.2.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/SsoWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/service/SsoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/CartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/TProductCartDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/ConstantsUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/service/impl/SsoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/CartWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/service/SsoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/controller/SsoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="61" column="55" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/java/com/qf/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-sso-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/resources/com/qf/mapper/SsoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/SsoServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="84" column="36" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/service/SsoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/controllerr/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/CartServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/service/impl/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="228" column="15" selection-start-line="228" selection-start-column="15" selection-end-line="228" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/utils/ResultBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/java/com/qf/mapper/CartMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-web/ljs-shop-web/shop-cart-web/src/main/java/com/qf/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-cart-service/src/main/resources/com/qf/mapper/CartMapper">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-service/ljs-shop-service/shop-sso-service/src/main/java/com/qf/controller/SsoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-project/shop-project-common/ljs-shop-common/src/main/java/com/qf/entity/TProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -685,7 +1662,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ljs-eureka-server</last-edited>
+          <last-edited>ljs-register-web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
